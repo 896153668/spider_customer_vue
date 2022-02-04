@@ -1,4 +1,4 @@
-# spider_collection
+# spider_customer_vue
 
 ## Project setup
 ```
